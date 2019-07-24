@@ -1,0 +1,5 @@
+sbt clean coverage test
+ clean coverage test 
+clean
+coverage
+reload

@@ -6,8 +6,8 @@
 		module="scalatest_2.12"
 		revision="1.0"
 		conf="pom"
-		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20190723113919"/>
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool, scoveragePlugin"
+		date="20190724154622"/>
 	<dependencies>
 	</dependencies>
 </ivy-report>
